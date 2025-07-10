@@ -5,14 +5,14 @@ This repository contains a collection of Homebrew formulae and casks that I main
 ## Usage
 
 ```shell
-brew tap justyuuto/stuff
+brew tap cutetenshii/stuff
 ```
 
 ## Casks
 
 ### Deezer Discord RPC
 
-This cask is for the [Deezer Discord RPC](https://github.com/JustYuuto/deezer-discord-rpc).
+This cask is for the [Deezer Discord RPC](https://github.com/CuteTenshii/deezer-discord-rpc).
 
 ```shell
 brew install --cask deezer-discord-rpc
