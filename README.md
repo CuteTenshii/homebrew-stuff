@@ -8,6 +8,16 @@ This repository contains a collection of Homebrew formulae and casks that I main
 brew tap cutetenshii/stuff
 ```
 
+## Formulae
+
+### switch-relay
+
+This formula is for the [Switch-Wasm](https://git.tenshii.moe/Tenshii/Switch-Wasm) relay, which gives the emulator Internet access.
+
+```shell
+brew install switch-relay
+```
+
 ## Casks
 
 ### Deezer Discord RPC
